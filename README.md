@@ -5,6 +5,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1F4E5F&center=true&vCenter=true&width=550&lines=Functional+%7C+Regression+%7C+Smoke+%7C+Exploratory+Testing;Turning+bugs+into+bug+reports+since+2026;Manual+QA+today+%E2%80%94+learning+Automation+next" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://achrist0s.github.io">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Site-1F4E5F?style=for-the-badge" />
+  </a>
+</p>
 ---
 
 ### 🧪 About Me
@@ -62,6 +67,9 @@
 ---
 
 <p align="center">
+  <a href="https://achrist0s.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-1F4E5F?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/mykola-yurchenko-b5b1b9338/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
