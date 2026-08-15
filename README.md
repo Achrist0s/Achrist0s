@@ -46,8 +46,8 @@
 
 | Project | Description |
 |---|---|
-| 🧾 **[qa-portfolio]([https://github.com/Achrist0s](https://github.com/Achrist0s/qa-portfolio.git))** | Sample test cases, checklists, and bug reports demonstrating manual QA workflow |
-| 🎮 **[emojis-cather](https://github.com/Achrist0s)** | Unity 2D game — contributed across concept, development, and QA |
+| 🧾 **[qa-portfolio](https://github.com/Achrist0s/qa-portfolio)** | Sample test cases, checklists, and bug reports demonstrating manual QA workflow |
+| 🎮 **[emojis-cather](https://github.com/Achrist0s/Emojis_Cather)** | Unity 2D game — contributed across concept, development, and QA |
 | 🐞 **[bug-report-examples](https://github.com/Achrist0s)** | Well-documented defect reports (steps to reproduce, severity, expected vs. actual) |
 
 ---
